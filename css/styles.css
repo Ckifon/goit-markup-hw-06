@@ -1092,7 +1092,7 @@ container {
 }
 
 .modal-form-check:checked + .modal-form-own-checkbox {
-    background-color: var(---secondary-text-color);
+    background-color: var(--secondary-text-color);
 }
 
 .modal-form-check:checked + .modal-form-own-checkbox > .modal-form-own-checkbox-icon {
